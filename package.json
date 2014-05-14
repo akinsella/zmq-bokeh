@@ -1,12 +1,12 @@
 {
-  "name": "bokeh",
+  "name": "zmq-bokeh",
   "version": "0.4.2",
   "description": "A blazing-fast task queue built on Node.js and ZeroMQ.",
-  "author": "Josh Bassett <josh.bassett@gmail.com>",
-  "homepage": "https://github.com/nullobject/bokeh",
+  "author": "Alexis Kinsella <alexis.kinsella@gmail.com>",
+  "homepage": "https://github.com/akinsella/zmq-bokeh",
   "repository": {
     "type": "git",
-    "url": "git://github.com/nullobject/bokeh.git"
+    "url": "git://github.com/akinsella/zmq-bokeh.git"
   },
   "engines": {
     "node": ">=0.6.0"
