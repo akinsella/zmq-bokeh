@@ -1,3 +1,9 @@
+# Fork from original 'bokeh' repository
+
+URL: https://github.com/nullobject/bokeh
+
+Project was forked to be able to publish library again after project was overwrote on npm repository by another project with same name.
+
 # Bokeh
 
 bokeh (pronounced boh-kay) is a simple, scalable and blazing-fast task queue built on [Node.js](http://nodejs.org) and [ZeroMQ](http://zeromq.org). It allows you to offload tasks from your main application process and distribute them among a pool of workers. Workers can be running on the same host as your application, or scaled out onto multiple machines for greater processing power.
